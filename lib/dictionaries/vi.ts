@@ -19,6 +19,10 @@ const vi = {
     heroSub:
       "Chuyển đổi hơn 160 đồng tiền với 2–6 chữ số thập phân, đọc cả bảng quy đổi, kiểm tra tỷ giá chéo và xem hóa đơn còn lại bao nhiêu sau biên độ ngân hàng — bằng 15 ngôn ngữ, không cần đăng ký.",
     browseAll: "Xem tất cả công cụ",
+    pinned: "Đã ghim",
+    pin: "Ghim lên đầu",
+    unpin: "Bỏ ghim",
+    popular: "Phổ biến ngay bây giờ",
     categoriesTitle: "Danh mục",
     featuredTitle: "Công cụ phổ biến",
     trustLocal: "File luôn ở lại thiết bị của bạn",
@@ -77,6 +81,8 @@ const vi = {
     howTo: "Cách sử dụng",
     faq: "Câu hỏi thường gặp",
     related: "Công cụ liên quan",
+    nextStep: "Bước tiếp theo",
+    copyLink: "Sao chép liên kết",
     privacyNote:
       "Công cụ này chạy hoàn toàn trong trình duyệt của bạn. Dữ liệu không bao giờ rời khỏi thiết bị — không được tải lên bất kỳ máy chủ nào.",
     inCategory: "Xem thêm trong {category}",

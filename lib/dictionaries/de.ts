@@ -19,6 +19,10 @@ const de = {
     heroSub:
       "Rechnen Sie 160+ Währungen mit 2 bis 6 Dezimalstellen um, lesen Sie ganze Tabellen, prüfen Sie Kreuzkurse und sehen Sie, was nach der Bankmarge von Ihrer Rechnung übrig bleibt — in 15 Sprachen, ohne Anmeldung.",
     browseAll: "Alle Tools ansehen",
+    pinned: "Angepinnt",
+    pin: "Oben anpinnen",
+    unpin: "Nicht mehr anpinnen",
+    popular: "Gerade beliebt",
     categoriesTitle: "Kategorien",
     featuredTitle: "Beliebte Tools",
     trustLocal: "Dateien bleiben auf Ihrem Gerät",
@@ -77,6 +81,8 @@ const de = {
     howTo: "So verwenden Sie es",
     faq: "Häufige Fragen",
     related: "Verwandte Tools",
+    nextStep: "Nächste Schritte",
+    copyLink: "Link kopieren",
     privacyNote:
       "Dieses Tool läuft vollständig in Ihrem Browser. Ihre Daten verlassen Ihr Gerät nie — sie werden auf keinen Server hochgeladen.",
     inCategory: "Mehr in {category}",
