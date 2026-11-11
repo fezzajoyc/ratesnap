@@ -1,4 +1,5 @@
 import type { ToolCopy } from "../_lib/types";
+import { id } from "./id";
 
 /**
  * 扩展语言覆盖层(见 site-engineering skill §1.5)。
@@ -6,4 +7,4 @@ import type { ToolCopy } from "../_lib/types";
  */
 export type Overlay = Record<string, ToolCopy>;
 
-export const OVERLAYS: Record<string, Overlay> = {};
+export const OVERLAYS: Record<string, Overlay> = { id };
