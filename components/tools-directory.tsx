@@ -104,7 +104,7 @@ export function ToolsDirectory({
               <Link
                 key={tool.slug}
                 href={`/${labels.hrefLang}/tools/${tool.slug}`}
-                className="group flex items-start gap-3 rounded-xl border hairline bg-white p-4 transition-colors hover:bg-[var(--color-surface)]"
+                className="group flex items-start gap-3 rounded-xl border hairline bg-white p-4 transition-colors dark:bg-[var(--color-card)] hover:bg-[var(--color-surface)]"
               >
                 <span className="mt-0.5 inline-flex flex-none rounded-lg p-2 transition-transform group-hover:scale-105"
                   style={tileStyle(tool.slug, tool.category)}>
